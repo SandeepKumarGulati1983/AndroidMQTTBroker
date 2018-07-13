@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Intel_LightLake/!svn/ver/7/Intel_testCode/MQTTServerAndroid/netty_parser
+END
+netty_parser.iml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Intel_LightLake/!svn/ver/7/Intel_testCode/MQTTServerAndroid/netty_parser/netty_parser.iml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Intel_LightLake/!svn/ver/7/Intel_testCode/MQTTServerAndroid/netty_parser/pom.xml
+END
+build.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Intel_LightLake/!svn/ver/7/Intel_testCode/MQTTServerAndroid/netty_parser/build.gradle
+END

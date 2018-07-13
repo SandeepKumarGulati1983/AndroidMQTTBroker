@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Intel_LightLake/!svn/ver/7/Intel_testCode/MQTTServerAndroid/broker/src/test/resources
+END
+serverkeystore.jks
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Intel_LightLake/!svn/ver/7/Intel_testCode/MQTTServerAndroid/broker/src/test/resources/serverkeystore.jks
+END
+password_file.conf
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Intel_LightLake/!svn/ver/7/Intel_testCode/MQTTServerAndroid/broker/src/test/resources/password_file.conf
+END
+clientkeystore.jks
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Intel_LightLake/!svn/ver/7/Intel_testCode/MQTTServerAndroid/broker/src/test/resources/clientkeystore.jks
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Intel_LightLake/!svn/ver/7/Intel_testCode/MQTTServerAndroid/broker/src/test/resources/log4j.properties
+END

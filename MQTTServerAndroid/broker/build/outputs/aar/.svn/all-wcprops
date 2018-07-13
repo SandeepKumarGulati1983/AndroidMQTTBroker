@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Intel_LightLake/!svn/ver/7/Intel_testCode/MQTTServerAndroid/broker/build/outputs/aar
+END
+broker-release.aar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Intel_LightLake/!svn/ver/7/Intel_testCode/MQTTServerAndroid/broker/build/outputs/aar/broker-release.aar
+END
+broker-debug.aar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Intel_LightLake/!svn/ver/7/Intel_testCode/MQTTServerAndroid/broker/build/outputs/aar/broker-debug.aar
+END

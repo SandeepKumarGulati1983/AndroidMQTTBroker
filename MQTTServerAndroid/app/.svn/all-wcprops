@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Intel_LightLake/!svn/ver/7/Intel_testCode/MQTTServerAndroid/app
+END
+app.iml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Intel_LightLake/!svn/ver/7/Intel_testCode/MQTTServerAndroid/app/app.iml
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Intel_LightLake/!svn/ver/7/Intel_testCode/MQTTServerAndroid/app/.gitignore
+END
+proguard-rules.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Intel_LightLake/!svn/ver/7/Intel_testCode/MQTTServerAndroid/app/proguard-rules.pro
+END
+build.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Intel_LightLake/!svn/ver/7/Intel_testCode/MQTTServerAndroid/app/build.gradle
+END

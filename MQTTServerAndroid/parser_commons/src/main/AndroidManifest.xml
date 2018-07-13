@@ -1,0 +1,5 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.eclipse.moquette.commons"
+    android:versionName="3.0">
+    <uses-sdk android:minSdkVersion="19" />
+</manifest>

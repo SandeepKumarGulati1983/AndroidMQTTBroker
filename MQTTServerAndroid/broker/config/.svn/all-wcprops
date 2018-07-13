@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Intel_LightLake/!svn/ver/7/Intel_testCode/MQTTServerAndroid/broker/config
+END
+password_file.conf
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Intel_LightLake/!svn/ver/7/Intel_testCode/MQTTServerAndroid/broker/config/password_file.conf
+END
+moquette.conf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Intel_LightLake/!svn/ver/7/Intel_testCode/MQTTServerAndroid/broker/config/moquette.conf
+END

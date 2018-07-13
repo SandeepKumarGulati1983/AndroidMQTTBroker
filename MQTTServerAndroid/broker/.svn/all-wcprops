@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Intel_LightLake/!svn/ver/7/Intel_testCode/MQTTServerAndroid/broker
+END
+broker.iml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Intel_LightLake/!svn/ver/7/Intel_testCode/MQTTServerAndroid/broker/broker.iml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Intel_LightLake/!svn/ver/7/Intel_testCode/MQTTServerAndroid/broker/pom.xml
+END
+build.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Intel_LightLake/!svn/ver/7/Intel_testCode/MQTTServerAndroid/broker/build.gradle
+END
